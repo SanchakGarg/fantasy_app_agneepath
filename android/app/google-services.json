@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334432646239",
+    "firebase_url": "https://fantasy-league-test-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fantasy-league-test",
+    "storage_bucket": "fantasy-league-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334432646239:android:66b9af567177759e65d7ea",
+        "android_client_info": {
+          "package_name": "com.example.fantasy_app_agneepath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334432646239-ge0trutp7vf3uvk4pucvtputegbokl8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgtvD8WHVfx6QLASibKrYJyBJu_Fq43SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334432646239-ge0trutp7vf3uvk4pucvtputegbokl8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334432646239-8522una21nvca01acsqq2mbu3qc02lmm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fantasyAppAgneepath.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

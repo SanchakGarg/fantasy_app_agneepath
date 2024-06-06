@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-agneepathfantasyleag-staging-160820-authRole",
+      "UnauthRoleArn": "arn:aws:iam::008738586155:role/amplify-agneepathfantasyleag-staging-160820-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::008738586155:role/amplify-agneepathfantasyleag-staging-160820-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-agneepathfantasyleag-staging-160820-deployment",
+      "UnauthRoleName": "amplify-agneepathfantasyleag-staging-160820-unauthRole",
+      "StackName": "amplify-agneepathfantasyleag-staging-160820",
+      "StackId": "arn:aws:cloudformation:ap-south-1:008738586155:stack/amplify-agneepathfantasyleag-staging-160820/471bb4e0-c69c-11ee-b208-0a7756f9d1f0",
+      "AmplifyAppId": "d3hn9mi212sgr0"
+    },
+    "categories": {
+      "auth": {
+        "AgneepathFantasyLeague": {}
+      },
+      "api": {
+        "AgneepathFantasyLeague": {}
+      }
+    }
+  }
+}
